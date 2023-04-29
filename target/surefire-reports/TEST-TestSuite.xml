@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="8.482" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="11.601" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="webdriver.chrome.driver" value="C:\Users\vemur\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Training\eclipse-java-2022-12-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\vemur\AppData\Local\Temp\surefire6673401958964543565\surefirebooter-20230428180143918_3.jar C:\Users\vemur\AppData\Local\Temp\surefire6673401958964543565 2023-04-28T18-01-43_462-jvmRun1 surefire-20230428180143918_1tmp surefire_0-20230428180143918_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\vemur\AppData\Local\Temp\surefire10318444361759289648\surefirebooter-20230429132210591_3.jar C:\Users\vemur\AppData\Local\Temp\surefire10318444361759289648 2023-04-29T13-22-10_121-jvmRun1 surefire-20230429132210591_1tmp surefire_0-20230429132210591_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\vemur\Documents\NewEclipse_Test\SalesForceTestNg\target\test-classes;C:\Users\vemur\Documents\NewEclipse_Test\SalesForceTestNg\target\classes;C:\Users\vemur\.m2\repository\org\seleniumhq\selenium\selenium-server\3.141.59\selenium-server-3.141.59.jar;C:\Users\vemur\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\vemur\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\vemur\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\vemur\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\vemur\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\vemur\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\vemur\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\vemur\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\vemur\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\vemur\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\vemur\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\vemur\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\vemur\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\vemur\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\vemur\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\vemur\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\vemur\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\vemur\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\vemur\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\vemur\.m2\repository\net\jcip\jcip-annotations\1.0\jcip-annotations-1.0.jar;C:\Users\vemur\.m2\repository\org\seleniumhq\selenium\jetty-repacked\9.4.12.v20180830\jetty-repacked-9.4.12.v20180830.jar;C:\Users\vemur\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\vemur\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\vemur\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Users\vemur\.m2\repository\org\yaml\snakeyaml\1.19\snakeyaml-1.19.jar;C:\Users\vemur\.m2\repository\io\github\bonigarcia\webdrivermanager\5.3.2\webdrivermanager-5.3.2.jar;C:\Users\vemur\.m2\repository\org\slf4j\slf4j-api\2.0.6\slf4j-api-2.0.6.jar;C:\Users\vemur\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\vemur\.m2\repository\com\github\docker-java\docker-java\3.2.14\docker-java-3.2.14.jar;C:\Users\vemur\.m2\repository\com\github\docker-java\docker-java-core\3.2.14\docker-java-core-3.2.14.jar;C:\Users\vemur\.m2\repository\com\github\docker-java\docker-java-api\3.2.14\docker-java-api-3.2.14.jar;C:\Users\vemur\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\vemur\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;C:\Users\vemur\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\vemur\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\vemur\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\vemur\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.64\bcpkix-jdk15on-1.64.jar;C:\Users\vemur\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.64\bcprov-jdk15on-1.64.jar;C:\Users\vemur\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\vemur\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.2.14\docker-java-transport-httpclient5-3.2.14.jar;C:\Users\vemur\.m2\repository\com\github\docker-java\docker-java-transport\3.2.14\docker-java-transport-3.2.14.jar;C:\Users\vemur\.m2\repository\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;C:\Users\vemur\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\vemur\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\vemur\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\vemur\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\vemur\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\vemur\.m2\repository\org\testng\testng\7.7.1\testng-7.7.1.jar;C:\Users\vemur\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\vemur\.m2\repository\com\aventstack\extentreports\3.0.0\extentreports-3.0.0.jar;C:\Users\vemur\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\vemur\.m2\repository\org\mongodb\mongodb-driver\3.3.0\mongodb-driver-3.3.0.jar;C:\Users\vemur\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar;C:\Users\vemur\.m2\repository\org\mongodb\mongodb-driver-core\3.3.0\mongodb-driver-core-3.3.0.jar;C:\Users\vemur\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\vemur\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\vemur\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\vemur\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\vemur\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\vemur\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\vemur\AppData\Local\Temp\surefire6673401958964543565\surefirebooter-20230428180143918_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\vemur\AppData\Local\Temp\surefire10318444361759289648\surefirebooter-20230429132210591_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.5+8"/>
@@ -60,32 +60,32 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="logintoSFDC" classname="tests.LoginTest" time="0.96">
+  <testcase name="logintoSFDC" classname="tests.LoginTest" time="0.155">
     <system-err><![CDATA[SLF4J: No SLF4J providers were found.
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
-Sta1r6t8in2g7 19C3h0r8o1m9e7D	rgievecrk o1dr1i2v.e0r.	5I6N1FO5.	L4i9s t(ebndi2nag7 bocnb 818217.c01.01e.81c:f3e43404778
-709382934e3916914-refs/branch-heads/5615@{#936}) on port 60774
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 50382
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-1682719308485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vemur\\AppData\\Local\\Temp\\rust_mozprofile107GVC"
+1682788934765	geckodriver	INFO	Listening on 127.0.0.1:24633
+1682788935135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vemur\\AppData\\Local\\Temp\\rust_mozprofile2S0uIk"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-Apr 28, 2023 6:01:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Apr 29, 2023 1:22:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-1682719309478	Marionette	INFO	Marionette enabled
+1682788936305	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
-1682719309500	Marionette	INFO	Listening on port 59921
-Read port: 59921
-1682719309992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1682788936319	Marionette	INFO	Listening on port 63030
+Read port: 63030
+1682788936984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vemur\\AppData\\Local\\Temp\\rust_mozprofile2S0uIk\\search.json.mozlz4", (void 0)))
+Apr 29, 2023 1:22:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="logintoSFDC" classname="tests.LoginTest" time="1.788">
-    <system-err><![CDATA[console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vemur\\AppData\\Local\\Temp\\rust_mozprofile107GVC\\search.json.mozlz4", (void 0)))
-Apr 28, 2023 6:01:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.salesforce.com."
+  <testcase name="logintoSFDC" classname="tests.LoginTest" time="1.897">
+    <system-err><![CDATA[console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.salesforce.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.salesforce.com."
 ]]></system-err>
   </testcase>
